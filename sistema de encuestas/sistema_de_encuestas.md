@@ -53,3 +53,39 @@
 
 ## Reglas de negocio
 
+Operaciones CRUD (Create, Read, Update, Delete)
+
+### encuestas
+
+1. Crear
+2. Leer
+3. Actualizar
+4. Borrar
+
+### preguntas
+
+1. Crear
+2. Leer
+3. Actualizar
+4. Borrar
+
+### respuestas
+
+1. Crear
+2. Leer
+3. Actualizar
+4. Borrar
+
+### encuestados
+
+1. Crear
+2. Leer
+3. Actualizar
+4. Borrar
+
+### resultados
+
+1. Crear
+2. Leer
+3. Actualizar
+4. Borrar
