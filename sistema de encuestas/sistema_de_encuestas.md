@@ -52,3 +52,4 @@
 ![Sistema de encuestas](./sistema_encuestas.drawio.png)
 
 ## Reglas de negocio
+
