@@ -53,39 +53,41 @@
 
 ## Reglas de negocio
 
-Operaciones CRUD (Create, Read, Update, Delete)
+Operaciones CRUD (Create, Read, Update, Delete) + Acciones que no se pueden hacer o requerimientos de cada entidad para que su funcionamiento tenga sentido.
 
 ### encuestas
 
-1. Crear
-2. Leer
-3. Actualizar
-4. Borrar
+1. Crear una encuesta
+2. Leer / Consultar una encuesta
+3. Actualizar una encuesta
+4. Borrar una encuesta
 
 ### preguntas
 
-1. Crear
-2. Leer
-3. Actualizar
-4. Borrar
+1. Crear una pregunta
+2. Leer / Consultar una pregunta
+3. Actualizar una pregunta
+4. Borrar una pregunta
 
 ### respuestas
 
-1. Crear
-2. Leer
-3. Actualizar
-4. Borrar
+1. Crear una respuesta
+2. Leer / Consultar una respuesta
+3. Actualizar una respuesta
+4. Borrar una respuesta
 
 ### encuestados
 
-1. Crear
-2. Leer
-3. Actualizar
-4. Borrar
+1. Crear un encuestado
+2. Leer / Consultar un encuestado
+3. Actualizar un encuestado
+4. Borrar un encuestado
+5. Comprobar que el encuestado no esté ya en la BBDD mediante email antes de crearlo.
 
 ### resultados
 
-1. Crear
-2. Leer
-3. Actualizar
-4. Borrar
+1. Crear un resultado
+2. Leer / Consultar un resultados
+3. Actualizar un resultados
+4. Borrar un resultados
+5. Sacar el porcentaje de aciertos que tuvo el encuestado al contestar 
